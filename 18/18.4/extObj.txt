@@ -1,0 +1,4 @@
+a=javax.swing.JFrame
+b=javax.swing.JLabel
+#set the title of a
+a%title=Test Title

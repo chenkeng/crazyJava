@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-10-09T14:48:17.083585300Z</date>
+  <millis>1507560497083</millis>
+  <nanos>585300</nanos>
+  <sequence>0</sequence>
+  <logger>fkjava</logger>
+  <level>INFO</level>
+  <class>LoggerI18N</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>普通信息</message>
+  <key>info</key>
+  <catalog>logMess</catalog>
+</record>
+<record>
+  <date>2017-10-09T14:48:17.167590100Z</date>
+  <millis>1507560497167</millis>
+  <nanos>590100</nanos>
+  <sequence>1</sequence>
+  <logger>fkjava</logger>
+  <level>SEVERE</level>
+  <class>LoggerI18N</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>错误信息</message>
+  <key>error</key>
+  <catalog>logMess</catalog>
+</record>
+</log>
